@@ -1,0 +1,133 @@
+.dots{
+  border-style:none;
+  border-color: #550025;
+  border-top-style: dotted;
+  border-width: 8px;
+  width: 3%;
+}
+#index_h1{
+  background-color: #F985B7;
+  height: 30px;
+  font-size: 22px;
+  color: #550025;
+  font-weight: 800;
+  font-family: constantia;
+}
+.img_index{
+  height: 360px;
+  width: 270px;
+  border-radius: 200px;
+  float: left;
+  margin-right: 19px;
+}
+.div_index_1{
+  background-color: #F985B7;
+  height: 25px;
+  font-size: 20px;
+  color: #5F0029;
+  font-style: oblique;
+  font-family: constantia;
+}
+.div_index_2{
+  height: 24px;
+  font-size: 19px;
+  color: #5F0029;
+  font-style: oblique;
+}
+.div_ind_osv{
+  height: 150px;
+  font-size: 18px;
+  color: #5F0029;
+  font-style: oblique;
+}
+.div_ind_hobi{
+  height: 50px;
+  font-size: 18px;
+  color: #5F0029;
+  font-style: oblique;
+}
+.a_ind{
+  height: 50px;
+  font-size: 20px;
+  color: #5F0029;
+  font-style: oblique;
+}
+#body_ind{
+  background-color: #CE5C8E;
+}
+#body_cont{
+  background-color: #AA54E4;
+}
+#cont_h1{
+  background-color: #8E2BD0;
+  height: 27px;
+  font-size: 21px;
+  color: #000000;
+  font-weight: 800;
+  font-family: constantia;
+}
+.img_cont{
+  height: 180px;
+  width: 140px;
+  float: left;
+  margin-right: 19px;
+}
+.cont_inf{
+  background-color: #8E2BD0;
+  height: 25px;
+  font-size: 20px;
+  color: #000000;
+  font-weight: 800;
+  line-height: normal;
+}
+.cont_inf_2{
+  height: 23px;
+  font-size: 17px;
+  color: #000000;
+  line-height: normal;
+}
+.a_cont{
+  height: 50px;
+  font-size: 18px;
+  color: #000000;
+}
+.background{
+  background-color:#BC78E9;
+  height: 25px;
+}
+h2{
+  color: #00235A;
+}
+#bode_maket{
+  background-color:#85B4FF;
+  font-family: constantia;
+}
+#body_foto{
+  background-color: #E1B918;
+}
+#foto_h1{
+  background-color: #DE8D13;
+  height: 35px;
+  font-size: 21px;
+  color: #000000;
+  font-weight: 800;
+}
+.foto{
+  height: 260px;
+  width: 219px;
+  float: left;
+  margin-right: 100px;
+}
+#foto_2{
+  height: 260px;
+  width: 219px;
+  float: right;
+}
+#foto_3{
+  height: 350px;
+  width: 450px;
+  margin-top: 40px;
+}
+a:visited{
+  color: #000000;
+}
